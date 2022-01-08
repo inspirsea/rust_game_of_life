@@ -1,0 +1,1 @@
+D:\repos\rust_game_of_life\target\release\game_of_life.exe: D:\repos\rust_game_of_life\src\frag.shader D:\repos\rust_game_of_life\src\game_of_life\mod.rs D:\repos\rust_game_of_life\src\main.rs D:\repos\rust_game_of_life\src\render_gl.rs D:\repos\rust_game_of_life\src\vert.shader
